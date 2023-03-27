@@ -1,8 +1,8 @@
 {
     "ads": {
-		"showAds": false,
-		"bannerAd": "admob",
-		"interstitialAd": "admob",
+		"showAds": true,
+		"bannerAd": "max",
+		"interstitialAd": "max",
 		"nativeAd": "max",
         "rewardAd": "max",
         "admobBanner": "ca-app-pub-3940256099942544/6300978111",
@@ -14,10 +14,10 @@
         "fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "fbReward": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "ironsourceApi": "1011dee21",
-        "maxBanner": "6db1491f2e21970c",
-        "maxInterstitial": "812b82d9e0c7cb7f",
-        "maxNative": "64ea2f2ef41edb34",
-        "maxReward": "64ea2f2ef41edb34",
+        "maxBanner": "bd0d1659fb041e17",
+        "maxInterstitial": "5959dd207ce99fc5",
+        "maxNative": "5d266efad8713743",
+        "maxReward": "dfea5767f7799b35",
         "interstitialClickNumActivities": 1,
         "interstitialClickNumList": 3
         
